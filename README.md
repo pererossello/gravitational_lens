@@ -1,5 +1,9 @@
 # Gravitational Lensing Image Generator
 
+Compute images with a gravitational lensing effect by placing masses that act as lenses. A thin lens approximation is used.
+
+For the physics behind the phenomena, you could consult Schneider, P. (2005, July). Gravitational lensing statistics.
+
 ![Lensing Example](plots/hubble_lens_example.jpg)
 
 ## Structure
@@ -11,8 +15,6 @@
 ## How to Use
 
 Use the `/example_usage.ipynb` notebook as a reference. 
-
-For the physics behind the phenomena, you could consult Schneider, P. (2005, July). Gravitational lensing statistics.
 
 ## Requirements
 
