@@ -1,0 +1,15 @@
+blender/
+figures/
+results/
+data/
+bin/
+
+code/__pycache__/
+code/calculs.ipynb
+code/collage.ipynb
+code/gravity_lens.ipynb
+code/make_image_sequence.ipynb
+code/make_video.ipynb
+code/utils.py
+code/test.ipynb
+code/test_image.ipynb
